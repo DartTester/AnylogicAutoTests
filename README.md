@@ -6,18 +6,18 @@
 
                                                                
 ## Technologies and instruments
-<p align="center">
-<img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
-<img width="6%" title="Java" src="images/logo/Java.svg">
-<img width="6%" title="Selenide" src="images/logo/Selenide.svg">
-<img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
-<img width="6%" title="Allure Report" src="images/logo/Allure_Report.svg">
-<img width="6%" title="Gradle" src="images/logo/Gradle.svg">
-<img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
-<img width="6%" title="GitHub" src="images/logo/GitHub.svg">
-<img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
-<img width="6%" title="Telegram" src="images/logo/Telegram.svg">
-</p>
+<div align="center">
+<a href="https://www.jetbrains.com/idea/"><img alt="InteliJ IDEA" height="50" src="attachments/IntelliJ.svg" width="50"/></a>
+<a href="https://www.java.com/"><img alt="Java" height="50" src="attachments/Java.svg" width="50"/></a>
+<a href="https://junit.org/junit5/"><img alt="JUnit 5" height="50" src="attachments/JUnit5.svg" width="50"/></a>
+<a href="https://selenide.org/"><img alt="Selenide" height="50" src="attachments/Selenide.svg" width="50"/></a>
+<a href="https://aerokube.com/selenoid/"><img alt="Selenoid" height="50" src="attachments/Selenoid.svg" width="50"/></a>
+<a href="https://gradle.org/"><img alt="Gradle" height="50" src="attachments/Gradle.svg" width="50"/></a>
+<a href="https://www.jenkins.io/"><img alt="Jenkins" height="50" src="attachments/Jenkins.svg" width="50"/></a>
+<a href="https://github.com/allure-framework/"><img alt="Allure" height="50" src="attachments/AllureReport.svg" width="50"/></a>
+<a href="https://github.com/"><img alt="GitHub" height="50" src="attachments/github.svg" width="50"/></a>
+<a href="https://telegram.org/"><img alt="Telegram" height="50" src="attachments/Telegram.svg" width="50"/></a>
+</div>
 
 
 ## :bookmark_tabs: Tests implemented
