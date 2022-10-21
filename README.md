@@ -28,3 +28,20 @@
 - Browser (браузер, по умолчанию chrome)
 - Version (версия браузера, по умолчанию 100.0)
 - Browser_size (размер окна браузера, по умолчанию 1920x1080)
+
+## :japanese_ogre: Запуск тестов из терминала
+
+Локальный запуск:
+```
+gradle clean test
+```
+
+Удаленный запуск:
+```
+clean
+test
+-Dbrowser=${BROWSER}
+-Dversion=${VERSION}
+-Dsize=${BROWSER_SIZE}
+-Durl=${REMOTE_URL}
+```
