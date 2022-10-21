@@ -16,3 +16,15 @@
 <a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 </p>
 
+## :boom: Реализованные проверки
+
+- ✓ Vacancy form should appear after click the button
+- ✓ Page title should have header text
+- ✓ Page console log should not have errors
+- ✓ Block Work Flow should not have text 'Cloud Databases'
+
+## 🧙: Параметры сборки в Jenkins:
+
+- Browser (браузер, по умолчанию chrome)
+- Version (версия браузера, по умолчанию 100.0)
+- Browser_size (размер окна браузера, по умолчанию 1920x1080)
